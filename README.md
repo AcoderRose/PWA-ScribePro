@@ -32,7 +32,7 @@ You will be redirected to the application at: `http://localhost:3000/`
 
 If you click the "install" button on the web browser app, you will get an offline desktop application version with its own taskbar icon.
 
-[Link to Deployed PWA-ScribePro Application]()
+[Link to Deployed PWA-ScribePro Application](https://pwa-scribepro.onrender.com)
 
 ![Screenshot of PWA-ScribePro](./images/JATE-Screenshot.png)
 

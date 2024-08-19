@@ -18,8 +18,15 @@
     "if-env": "^1.0.4"
   },
   "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
+    "@babel/plugin-transform-runtime": "^7.24.7",
+    "@babel/preset-env": "^7.25.3",
     "concurrently": "^5.2.0",
+    "html-webpack-plugin": "^5.6.0",
     "nodemon": "^2.0.4",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "webpack-pwa-manifest": "^4.3.0",
+    "workbox-webpack-plugin": "^7.1.0"
   }
 }
